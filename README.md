@@ -7,12 +7,12 @@ welcome to KW's github
 - 🌱 Dev noob
 - 📬 tbd
 
-# 💻 Stack ...
-## Front-end ..
+## 💻 Stack ...
+### Front-end ..
 <img src="https://img.shields.io/badge/HTML-E34F26?style=flat&logo=HTML5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS-1572B6?style=flat&logo=CSS3&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white"/> <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white"/>
-## Back-end ..
+### Back-end ..
 <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat&logo=SpringBoot&logoColor=white"/> <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=PythonBoot&logoColor=white"/> <img src="https://img.shields.io/badge/django-092E20?style=flat&logo=django&logoColor=white"/>
-## Others ..
+### Others ..
 <img src="https://img.shields.io/badge/photoshop-31A8FF?style=flat&logo=adobephotoshop&logoColor=white"/> <img src="https://img.shields.io/badge/illustrator-FF9A00?style=flat&logo=adobeillustrator&logoColor=white"/>
 
 
